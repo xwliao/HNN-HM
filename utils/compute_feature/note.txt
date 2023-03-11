@@ -1,0 +1,1 @@
+ComputeFeature.cpp is modified from BCAGM's mexComputeFeature.h which is the same as RRWHM.
