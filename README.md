@@ -3,13 +3,15 @@
 Hypergraph Neural Networks for Hypergraph Matching
 
 ```
-@article{Liao2021HNNHM,
-  title={Hypergraph Neural Networks for Hypergraph Matching},
-  author={Xiaowei Liao and Yong Xu and Haibin Ling},
-  journal={International Conference on Computer Vision (ICCV)},
-  year={2021},
-  pages={1246-1255}
-}
+@InProceedings{Liao2021HNNHM,
+    title = {Hypergraph Neural Networks for Hypergraph Matching},
+    author = {Liao, Xiaowei and Xu, Yong and Ling, Haibin},
+    booktitle = {{IEEE/CVF} International Conference on Computer Vision ({ICCV})},
+    month = {October},
+    year = {2021},
+    pages = {1246--1255},
+    doi = {10.1109/ICCV48922.2021.00130}
+} 
 ```
 
 ## Download data
