@@ -1,0 +1,8 @@
+https://gitlab.com/libeigen/eigen/-/archive/3.3.1/eigen-3.3.1.tar.gz
+https://www.tiberiocaetano.com/data/house.tar.gz
+https://www.tiberiocaetano.com/data/hotel.tar.gz
+http://www.di.ens.fr/willow/research/graphlearning/WILLOW-ObjectClass_dataset.zip
+https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/voc2011_keypoints_Feb2012.tgz
+http://host.robots.ox.ac.uk/pascal/VOC/voc2011/VOCtrainval_25-May-2011.tar
+https://drive.google.com/uc?id=0B7CshFGxfi_5QndLbnNiNGVWejQ
+http://cvlab.postech.ac.kr/research/SPair-71k/data/SPair-71k.tar.gz
